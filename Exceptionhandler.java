@@ -19,7 +19,7 @@ class Exceptionhandler{
   }
   catch(ArithmeticException e)
   {
-	  System.out.println("Error! Zero division.");
+	  System.out.println("Error! You performed zero division.");
   }
 }
 }
